@@ -21,7 +21,7 @@
 
 project = 'Connect Dienste'
 copyright = '2018, Porsche AG'
-author = 'Jochen Grün (MHP), Björn Stütz, Markus Knopp'
+author = 'Jochen Gruen (MHP), Bjoern Stuetz, Markus Knopp'
 
 # The short X.Y version
 version = ''
