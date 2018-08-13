@@ -129,7 +129,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'ConnectDienste.tex', 'Connect Dienste Documentation',
-     'Jochen Grün (MHP), Björn Stütz, Markus Knopp', 'manual'),
+     'Jochen Gruen (MHP), Bjoern Stuetz, Markus Knopp', 'manual'),
 ]
 
 
